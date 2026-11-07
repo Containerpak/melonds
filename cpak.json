@@ -4,7 +4,7 @@
   "name": "melonDS",
   "description": "Nintendo DS and DSi emulator.",
   "version": "1.1",
-  "image": "ghcr.io/containerpak/melonds@sha256:66c85ab54afe152a07aa88398d7b1d5db4fa9baad0267dd00612fc5e75aadcd6",
+  "image": "ghcr.io/containerpak/melonds@sha256:4df84bdf577cbabfaa0dbcf5a428e14130383c613d870d55ab6eec636cf179a5",
   "binaries": [
     "/usr/bin/melonds"
   ],
